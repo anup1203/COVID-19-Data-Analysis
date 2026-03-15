@@ -1,11 +1,12 @@
 # COVID-19 Global Data Analysis
 
 ## Overview
-This project analyzes global COVID-19 death cases and time-series trends using Python and data science techniques.
+This project analyzes global COVID-19 death cases and time-series trends using Python and data science techniques. The analysis includes data preprocessing, visualization, and time-series trend analysis to understand the spread of the pandemic.
 
 ## Tools Used
 - Python
 - Pandas
+- NumPy
 - Matplotlib
 - Seaborn
 - Prophet
@@ -18,28 +19,21 @@ This project analyzes global COVID-19 death cases and time-series trends using P
 
 ## Global Death Distribution
 
-![World Map] 
+![World Map](images/world_map.png)
 
 ## Time Series Analysis
 
-![Time Series] 
+![Time Series](images/time_series.png)
+
 ## Key Insights
 - USA recorded the highest death cases.
 - Rapid growth observed after March 2020.
-- Pandemic spread exponentially in early stages.
+- Pandemic spread exponentially during early stages.
 
 ## Future Improvements
 - Add vaccination data
 - Build predictive machine learning models
-- Create interactive dashboards
-Project Structure
+- Create interactive dashboards using Power BI or Tableau
 
-COVID-19-Data-Analysis
-│
-├── Covid_19.ipynb
-├── covid_19_clean_complete.csv
-├── COVID.pdf
-├── README.md
-└── images
-    ├── world_map.png
-    └── time_series.png
+## Project Structure
+
