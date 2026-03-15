@@ -37,3 +37,16 @@ This project analyzes global COVID-19 death cases and time-series trends using P
 
 ## Project Structure
 
+## Project Structure
+
+```
+COVID-19-Data-Analysis
+│
+├── Covid_19.ipynb
+├── covid_19_clean_complete.csv
+├── COVID.pdf
+├── README.md
+└── images
+    ├── world_map.png
+    └── time_series.png
+```
